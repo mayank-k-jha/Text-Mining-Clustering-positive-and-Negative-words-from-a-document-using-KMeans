@@ -1,3 +1,7 @@
+'''
+author : Mayank Kumar Jha (mk9440)
+'''
+
 from textblob import TextBlob
 from nltk.corpus import stopwords
 import string
